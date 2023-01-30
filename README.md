@@ -13,6 +13,7 @@
 - [옵셔널 ⭐️](https://verbena-bison-4bb.notion.site/854f3add30b645ecbf02ca405b679c01)
 - [함수의 기본 개념 및 표기법](https://verbena-bison-4bb.notion.site/30ef5dc54b1a4005874641f37362c34a)
 - [함수의 실행의 메모리 구조 ⭐️](https://verbena-bison-4bb.notion.site/a08c587bfa5b4b5ca03f79b220c80e21)
+- [함수의 오버로딩 & 범위에 대한 이해](https://verbena-bison-4bb.notion.site/b8849347413c4cac9e56903732bfe77a)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
