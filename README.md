@@ -14,11 +14,12 @@
 - [함수의 기본 개념 및 표기법](https://verbena-bison-4bb.notion.site/30ef5dc54b1a4005874641f37362c34a)
 - [함수의 실행의 메모리 구조 ⭐️](https://verbena-bison-4bb.notion.site/a08c587bfa5b4b5ca03f79b220c80e21)
 - [함수의 오버로딩 & 범위에 대한 이해](https://verbena-bison-4bb.notion.site/b8849347413c4cac9e56903732bfe77a)
+- [파라미터 집중탐구](https://verbena-bison-4bb.notion.site/3f0a28ff368c459b894e27f71471ad7a)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
 - [clipsToBound vs maskToBounds](https://verbena-bison-4bb.notion.site/clipsToBound-vs-maskToBounds-644f6b7957bc42089f5c996dc220af2c)
-- [버튼 터치 영여 확대](https://verbena-bison-4bb.notion.site/0881e17114114111998dd4aec21e8b79)
+- [버튼 터치 영역 확대](https://verbena-bison-4bb.notion.site/0881e17114114111998dd4aec21e8b79)
 - [UIView 계층 구조](https://verbena-bison-4bb.notion.site/UIView-fbf8c262acc44f84833de144fb35e60c)
 
 ## ❓호기심 천국 아요가 궁금해~
