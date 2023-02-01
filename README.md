@@ -21,6 +21,7 @@
 - [clipsToBound vs maskToBounds](https://verbena-bison-4bb.notion.site/clipsToBound-vs-maskToBounds-644f6b7957bc42089f5c996dc220af2c)
 - [버튼 터치 영역 확대](https://verbena-bison-4bb.notion.site/0881e17114114111998dd4aec21e8b79)
 - [UIView 계층 구조](https://verbena-bison-4bb.notion.site/UIView-fbf8c262acc44f84833de144fb35e60c)
+- [셀 재사용 문제 → index 꼬임 오류 해결](https://verbena-bison-4bb.notion.site/index-74b9d5c1d16646059dd1f52a222dc169)
 
 ## ❓호기심 천국 아요가 궁금해~
 - [숫자 리터럴에 추가 포맷을 넣어도 상관없다..?](https://verbena-bison-4bb.notion.site/3bfe162bbcd34a35a4e88e859d92cf4e)
