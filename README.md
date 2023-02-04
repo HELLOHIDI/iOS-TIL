@@ -30,3 +30,4 @@
 
 ## 🔫아요의 호카게가 되기 위한 자료 모음집
 - [문법 커리큘럼](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8#curriculum)
+- [SeSAC iOS 데뷔과정 2기 정리집](https://eun-dev.tistory.com/77)
