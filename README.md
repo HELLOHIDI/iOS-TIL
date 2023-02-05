@@ -16,6 +16,7 @@
 - [함수의 오버로딩 & 범위에 대한 이해](https://verbena-bison-4bb.notion.site/b8849347413c4cac9e56903732bfe77a)
 - [파라미터 집중탐구](https://verbena-bison-4bb.notion.site/3f0a28ff368c459b894e27f71471ad7a)
 - [중첩함수, 비반환함수, 반환값을 무시해도 되는 함수](https://verbena-bison-4bb.notion.site/d4e0b77c660e4066b559af8f58327a61)
+- [함수의 표기법, 함수의 타입, 일급객체로서의 함수](https://verbena-bison-4bb.notion.site/2952346a7e114904924e4673a7f5359d)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
