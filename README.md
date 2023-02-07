@@ -19,6 +19,7 @@
 - [함수의 표기법, 함수의 타입, 일급객체로서의 함수](https://verbena-bison-4bb.notion.site/2952346a7e114904924e4673a7f5359d)
 - [튜플](https://verbena-bison-4bb.notion.site/78b8d341a0f04d1f90eaf4e7ea7f7f3d)
 - [컬렉션 타입 기본 개념](https://verbena-bison-4bb.notion.site/e6bbfa736bff43ca9f4af963dba64f31)
+- [Array](https://verbena-bison-4bb.notion.site/Array-30df108d88df43b7a522be6fcbdefe6d)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
