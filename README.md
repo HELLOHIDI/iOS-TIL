@@ -21,6 +21,7 @@
 - [컬렉션 타입 기본 개념](https://verbena-bison-4bb.notion.site/e6bbfa736bff43ca9f4af963dba64f31)
 - [Array](https://verbena-bison-4bb.notion.site/Array-30df108d88df43b7a522be6fcbdefe6d)
 - [Dictionary](https://verbena-bison-4bb.notion.site/Dictionary-55f9aace82b440e9b797a1d94a9d64e4)
+- [Set](https://verbena-bison-4bb.notion.site/Set-325f17398dc940ac8df7e32792ede08e)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
