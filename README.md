@@ -34,6 +34,7 @@
 ## ❓호기심 천국 아요가 궁금해~
 - [숫자 리터럴에 추가 포맷을 넣어도 상관없다..?](https://verbena-bison-4bb.notion.site/3bfe162bbcd34a35a4e88e859d92cf4e)
 - [Swift Naming 규칙](https://verbena-bison-4bb.notion.site/Swift-Naming-079c88550b244db5879be8904168321d)
+- [컬렉션 타입의 capacity는 뭐죱? 근데 이제 배열의 할당 방식을 곁들인..](https://verbena-bison-4bb.notion.site/capacity-949c362cc6a1479bb2658fe4d76cec36)
 
 ## 🔫아요의 호카게가 되기 위한 자료 모음집
 - [문법 커리큘럼](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8#curriculum)
