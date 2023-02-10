@@ -24,6 +24,7 @@
 - [Set](https://verbena-bison-4bb.notion.site/Set-325f17398dc940ac8df7e32792ede08e)
 - [Hashable ⭐️](https://verbena-bison-4bb.notion.site/Hashable-cf1ad2b1b9e24bcdb8f657e0c602efbe)
 - [Generic](https://verbena-bison-4bb.notion.site/Generic-3b15d1bdd56049269f70531ff94b9561)
+- [Enum](https://verbena-bison-4bb.notion.site/Enum-91ebfa8ec2924d16b65db863e121dc3b)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
