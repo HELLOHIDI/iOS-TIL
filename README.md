@@ -27,6 +27,7 @@
 - [Enum](https://verbena-bison-4bb.notion.site/Enum-91ebfa8ec2924d16b65db863e121dc3b)
 - [구조체와 클래스 기본편](https://verbena-bison-4bb.notion.site/Class-Struct-923a945893c04d3d852366db7b379888)
 - [Value Type vs Reference Type](https://verbena-bison-4bb.notion.site/Value-Type-vs-Reference-Type-e1b01a4283df4bbc9aa9725b6175fe3d)
+- [Value Type vs Reference Type 심화편 ⭐️](https://www.notion.so/Value-Type-vs-Reference-Type-e4f75bfe38a645279f15dceb68798bf8?pvs=4)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
