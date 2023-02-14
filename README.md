@@ -37,6 +37,7 @@
 - [셀 재사용 문제 → index 꼬임 오류 해결](https://verbena-bison-4bb.notion.site/index-74b9d5c1d16646059dd1f52a222dc169)
 - [Codable](https://verbena-bison-4bb.notion.site/Codable-afc387e954854e32bedcfb7cfe65a7ac)
 - [CodingKey](https://verbena-bison-4bb.notion.site/CondingKey-ab9f2629f95a495f984acbc2e8078f5b)
+- [애플 소셜 로그인](https://verbena-bison-4bb.notion.site/536379fef01f4fbeb9f158a04d53e282)
 
 ## ❓호기심 천국 아요가 궁금해~
 - [숫자 리터럴에 추가 포맷을 넣어도 상관없다..?](https://verbena-bison-4bb.notion.site/3bfe162bbcd34a35a4e88e859d92cf4e)
