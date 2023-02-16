@@ -32,6 +32,7 @@
 - [Computed Property](https://verbena-bison-4bb.notion.site/ce394322c2934a5698234d15c40f11db)
 - [Type Property](https://verbena-bison-4bb.notion.site/750b803c53d04ced8ac46da2e7eafd6a)
 - [Type Observer](https://verbena-bison-4bb.notion.site/400e9605fb2e48909a3ae95395581298)
+- [Property Wrapper ⭐️](https://verbena-bison-4bb.notion.site/Property-Wrapper-b433b84d21524fa78f627c7a7bc909b0)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
