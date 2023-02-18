@@ -33,7 +33,7 @@
 - [Type Property](https://verbena-bison-4bb.notion.site/750b803c53d04ced8ac46da2e7eafd6a)
 - [Type Observer](https://verbena-bison-4bb.notion.site/400e9605fb2e48909a3ae95395581298)
 - [Property Wrapper ⭐️](https://verbena-bison-4bb.notion.site/Property-Wrapper-b433b84d21524fa78f627c7a7bc909b0)
-
+- [싱글톤 패턴](https://verbena-bison-4bb.notion.site/1f3dbf7ac5434c73a0a490599322fc77)
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
 - [clipsToBound vs maskToBounds](https://verbena-bison-4bb.notion.site/clipsToBound-vs-maskToBounds-644f6b7957bc42089f5c996dc220af2c)
