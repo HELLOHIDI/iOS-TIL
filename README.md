@@ -34,6 +34,7 @@
 - [Type Observer](https://verbena-bison-4bb.notion.site/400e9605fb2e48909a3ae95395581298)
 - [Property Wrapper ⭐️](https://verbena-bison-4bb.notion.site/Property-Wrapper-b433b84d21524fa78f627c7a7bc909b0)
 - [Instance Method & Type Method](https://verbena-bison-4bb.notion.site/0ed26e9525ff4b3b8e8923f04fbe708d)
+- [Subscript](https://verbena-bison-4bb.notion.site/80b700a3479f40a39eddda7a92927439)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
