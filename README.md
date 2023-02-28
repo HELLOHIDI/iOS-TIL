@@ -37,7 +37,8 @@
 - [Subscript](https://verbena-bison-4bb.notion.site/80b700a3479f40a39eddda7a92927439)
 - [Singleton Pattern](https://verbena-bison-4bb.notion.site/1f3dbf7ac5434c73a0a490599322fc77)
 - [Inheritance](https://verbena-bison-4bb.notion.site/d751bdd03cec47fd94125f424130eb14)
-- [구조체 초기화](https://verbena-bison-4bb.notion.site/f805f991dd5a47efa657a822b485d35f)
+- [struct Initializer](https://verbena-bison-4bb.notion.site/f805f991dd5a47efa657a822b485d35f)
+- [class Initializer](https://verbena-bison-4bb.notion.site/bf5d5452c1a54005a51d3e0858c97785)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
