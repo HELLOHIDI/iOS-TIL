@@ -40,6 +40,7 @@
 - [struct Initializer](https://verbena-bison-4bb.notion.site/f805f991dd5a47efa657a822b485d35f)
 - [class Initializer](https://verbena-bison-4bb.notion.site/bf5d5452c1a54005a51d3e0858c97785)
 - [Initializer Delegation](https://verbena-bison-4bb.notion.site/Initializer-Delegation-0613563b76f044b7a12b2a82ebfe422b)
+- [Two-Phase Initialization & Initialization Inheritance](https://verbena-bison-4bb.notion.site/2-0a898ab1541743428e4e8f450e23adf0)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
