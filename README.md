@@ -43,6 +43,7 @@
 - [Two-Phase Initialization & Initialization Inheritance](https://verbena-bison-4bb.notion.site/2-0a898ab1541743428e4e8f450e23adf0)
 - [Required, Failable, Deinit](https://verbena-bison-4bb.notion.site/Required-Failable-Deinitializer-743d6e4d94904c73813b4ae2bb19bf07)
 - [Type Casting](https://verbena-bison-4bb.notion.site/21b152afd15c4e488431597542c280df)
+- [Any & AnyObject](https://verbena-bison-4bb.notion.site/Any-AnyObject-d082fc734749439d92b5c940b0a48507)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
