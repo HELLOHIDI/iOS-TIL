@@ -46,6 +46,7 @@
 - [Any & AnyObject](https://verbena-bison-4bb.notion.site/Any-AnyObject-d082fc734749439d92b5c940b0a48507)
 - [Closure](https://verbena-bison-4bb.notion.site/1-0fc45c8dce914e3c92b6914365b62515)
 - [Closure Expression Syntax](https://verbena-bison-4bb.notion.site/0823c20df9754e629404034d79d06383)
+- [MRC](https://verbena-bison-4bb.notion.site/MRC-f19fce617e8f49a3a6d468ea1ffdad39)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
