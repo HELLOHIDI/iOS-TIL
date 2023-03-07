@@ -48,6 +48,7 @@
 - [Closure Expression Syntax](https://verbena-bison-4bb.notion.site/0823c20df9754e629404034d79d06383)
 - [MRC](https://verbena-bison-4bb.notion.site/MRC-f19fce617e8f49a3a6d468ea1ffdad39)
 - [ARC](https://verbena-bison-4bb.notion.site/ARC-a595526e0eeb4a9c90612ca896a18b64)
+- [Swift ARC Strong Reference](https://verbena-bison-4bb.notion.site/683e80d81ce94f54aa5140e2ddb6cec2)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
