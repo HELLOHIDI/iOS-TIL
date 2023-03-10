@@ -61,6 +61,7 @@
 - [CodingKey](https://verbena-bison-4bb.notion.site/CondingKey-ab9f2629f95a495f984acbc2e8078f5b)
 - [애플 소셜 로그인](https://verbena-bison-4bb.notion.site/536379fef01f4fbeb9f158a04d53e282)
 - [MOYA 서버 통신 정리하기](https://verbena-bison-4bb.notion.site/Network-Base-e30cf72bfd85432f9d155a143febb6f6)
+- [멀티파트 통신](https://verbena-bison-4bb.notion.site/f23e1c1ea6774306859852f25275c94c)
 
 ## ❓호기심 천국 아요가 궁금해~
 - [숫자 리터럴에 추가 포맷을 넣어도 상관없다..?](https://verbena-bison-4bb.notion.site/3bfe162bbcd34a35a4e88e859d92cf4e)
