@@ -53,6 +53,7 @@
 - [Swift ARC Strong Reference](https://verbena-bison-4bb.notion.site/683e80d81ce94f54aa5140e2ddb6cec2)
 - [Protocol](https://verbena-bison-4bb.notion.site/bef634a53d1349d297ccbbf31fab91bc)
 - [Protocol Requirements](https://verbena-bison-4bb.notion.site/Requirements-5ea07651ba9f45c692b0003a75b4b435)
+- [Protocol Type, Protocol Extension](https://verbena-bison-4bb.notion.site/1-Extension-6c2bb67ad9f74f8fa91147579d10198b)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
