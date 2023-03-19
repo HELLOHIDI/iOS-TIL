@@ -56,6 +56,7 @@
 - [Protocol Type, Protocol Extension](https://verbena-bison-4bb.notion.site/1-Extension-6c2bb67ad9f74f8fa91147579d10198b)
 - [Associated Type](https://verbena-bison-4bb.notion.site/associated-Type-1dbc474f47284f3c9d57480ca1cfff53)
 - [Access Control](https://verbena-bison-4bb.notion.site/c708c485e55e464ab80c49ceefa57502)
+- [Access Control2](https://verbena-bison-4bb.notion.site/2-e282edd619d742c0aac4c367d4e90d42)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
