@@ -70,10 +70,18 @@
 - [MOYA 서버 통신 정리하기](https://verbena-bison-4bb.notion.site/Network-Base-e30cf72bfd85432f9d155a143febb6f6)
 - [멀티파트 통신](https://verbena-bison-4bb.notion.site/f23e1c1ea6774306859852f25275c94c)
 - [UIPageViewController](https://verbena-bison-4bb.notion.site/UIPageViewController-005550f7c71e4614ae074dead8711bc2)
+
 ## ❓호기심 천국 아요가 궁금해~
 - [숫자 리터럴에 추가 포맷을 넣어도 상관없다..?](https://verbena-bison-4bb.notion.site/3bfe162bbcd34a35a4e88e859d92cf4e)
 - [Swift Naming 규칙](https://verbena-bison-4bb.notion.site/Swift-Naming-079c88550b244db5879be8904168321d)
 - [컬렉션 타입의 capacity는 뭐죱? 근데 이제 배열의 할당 방식을 곁들인..](https://verbena-bison-4bb.notion.site/capacity-949c362cc6a1479bb2658fe4d76cec36)
+
+## 🧠 운영체제 (CS도 공부도 열심히 해야지!!!라는 핑계 뒤에 잔디를 심으려는 숨은 속뜻..ㅎ)
+- [The Abstraction: The Process](https://verbena-bison-4bb.notion.site/The-Abstraction-The-Process-9d3b7152082f4de99dad7b4b07e433a1)
+- [Interlude: Process API](https://verbena-bison-4bb.notion.site/Interlude-Process-API-41fd1c10c0b84b03961223d9fad7f101)
+- [Mechanism: Limited Direct Execution](https://verbena-bison-4bb.notion.site/Mechanism-Limited-Direct-Execution-c5aede109ca54a86936e77b6750f2f20)
+- [Scheduling: Introduction](https://verbena-bison-4bb.notion.site/Scheduling-Introduction-cbff901d4b78417e84aa9f5a2e1124e3)
+- [MLFQ](https://verbena-bison-4bb.notion.site/MLFQ-3f99cf85d62d4473bbaca6699ac23721)
 
 ## 🔫아요의 호카게가 되기 위한 자료 모음집
 - [문법 커리큘럼](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8#curriculum)
