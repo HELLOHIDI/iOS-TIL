@@ -83,6 +83,7 @@
 - [Mechanism: Limited Direct Execution](https://verbena-bison-4bb.notion.site/Mechanism-Limited-Direct-Execution-c5aede109ca54a86936e77b6750f2f20)
 - [Scheduling: Introduction](https://verbena-bison-4bb.notion.site/Scheduling-Introduction-cbff901d4b78417e84aa9f5a2e1124e3)
 - [MLFQ](https://verbena-bison-4bb.notion.site/MLFQ-3f99cf85d62d4473bbaca6699ac23721)
+- [Proportional-Share](https://verbena-bison-4bb.notion.site/Proportional-Share-f6845a4823b041e5aecc1ff65f5eac29)
 
 ## 🔫아요의 호카게가 되기 위한 자료 모음집
 - [문법 커리큘럼](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8#curriculum)
