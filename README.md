@@ -90,6 +90,8 @@
 - [Proportional-Share](https://verbena-bison-4bb.notion.site/Proportional-Share-f6845a4823b041e5aecc1ff65f5eac29)
 - [Address Space](https://verbena-bison-4bb.notion.site/Address-Space-3f99c876cbf44f42b5fbfc00f93211f3)
 - [Address Translation](https://verbena-bison-4bb.notion.site/Address-Translation-8e3ee732b5f543b39dfa474b95e483ae)
+- [Segementation](https://verbena-bison-4bb.notion.site/Segementation-4cf23714723747fab4368e8f4fdfeb50)
+- [Free Space](https://verbena-bison-4bb.notion.site/Free-Space-98b0032a66fc452b8e3851f5f8fd73ac)
 
 ## 🔫아요의 호카게가 되기 위한 자료 모음집
 - [문법 커리큘럼](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8#curriculum)
