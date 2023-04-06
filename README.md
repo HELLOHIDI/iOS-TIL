@@ -81,6 +81,7 @@
 - [컬렉션 타입의 capacity는 뭐죱? 근데 이제 배열의 할당 방식을 곁들인..](https://verbena-bison-4bb.notion.site/capacity-949c362cc6a1479bb2658fe4d76cec36)
 - [아요 릴리즈 시 주의해야 할 리젝 관련 사항들](https://verbena-bison-4bb.notion.site/iOS-53668283a4d34f7684f0e79a36944cbe)
 - [$0.translatesAutoresizingMaskIntoConstraints = false는 왜 작성한 것일까요? ](https://verbena-bison-4bb.notion.site/0-translatesAutoresizingMaskIntoConstraints-false-0af997968bfa43faaaca5bf1ba4429dc)
+- [final 키워드는 왜 사용하는 걸까?](https://verbena-bison-4bb.notion.site/final-0142dbd890ff4f11a037613a137fa6b3)
 
 ## 🧠 운영체제 (CS도 공부도 열심히 해야지!!!라는 핑계 뒤에 잔디를 심으려는 숨은 속뜻..ㅎ)
 - [The Abstraction: The Process](https://verbena-bison-4bb.notion.site/The-Abstraction-The-Process-9d3b7152082f4de99dad7b4b07e433a1)
