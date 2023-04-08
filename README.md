@@ -97,6 +97,8 @@
 - [Paging](https://verbena-bison-4bb.notion.site/Paging-95ff7c2e51cb423785e602d9b06bc0f6)
 - [TLB](https://verbena-bison-4bb.notion.site/Paging-Faster-Translation-157f2c75366a4f7c8f982a8b5f45469a)
 - [Smaller TLB](https://verbena-bison-4bb.notion.site/Paging-Smaller-Tables-948545056799446e869775ef6d8de441)
+- [Beyond Physical Memory: Mechanism](https://verbena-bison-4bb.notion.site/Beyond-Physical-Memory-Mechansims-dab0c21984b3490eb5f13d4e96dd64cc)
+- [Beyond Physical Memory: Policies](https://verbena-bison-4bb.notion.site/Beyond-Physical-Memory-Policies-a0621546bb804eb8a00f8d6a1b5c35bb)
 
 ## 🔫아요의 호카게가 되기 위한 자료 모음집
 - [문법 커리큘럼](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8#curriculum)
