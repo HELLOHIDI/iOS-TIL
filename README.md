@@ -75,6 +75,7 @@
 - [UIPageViewController](https://verbena-bison-4bb.notion.site/UIPageViewController-005550f7c71e4614ae074dead8711bc2)
 - [StikcyHeader](https://verbena-bison-4bb.notion.site/StikcyHeader-a3c882e90e904fd3a1d8c0b3c16ba7d7)
 - [갤러리 접근 권한 허용](https://verbena-bison-4bb.notion.site/2245883356cc48499292f84118211f9f)
+- [데이터 전달 방식](https://verbena-bison-4bb.notion.site/e0486894dc124f3bbdd663fc0e22eb43)
 
 ## ❓호기심 천국 아요가 궁금해~
 - [숫자 리터럴에 추가 포맷을 넣어도 상관없다..?](https://verbena-bison-4bb.notion.site/3bfe162bbcd34a35a4e88e859d92cf4e)
