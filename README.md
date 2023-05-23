@@ -110,6 +110,7 @@
 - [Locks(2)](https://verbena-bison-4bb.notion.site/Locks-2-2a45f77cf0d34777844864a310a6acc5)
 - [Futex](https://verbena-bison-4bb.notion.site/Futex-7c07df5e4b274ec7b1b8b269b59f9237)
 - [Lock-based Concurrent Data Structures](https://verbena-bison-4bb.notion.site/Lock-based-Concurrent-Data-Structures-f95205b30fca48c5b799c86b6b10de42)
+- [Condition Variables](https://verbena-bison-4bb.notion.site/Condition-Variables-35d50c1caa134bff8eba2eb263430d93)
 
 ## 🔫아요의 호카게가 되기 위한 자료 모음집
 - [문법 커리큘럼](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8#curriculum)
