@@ -78,6 +78,7 @@
 - [데이터 전달 방식](https://verbena-bison-4bb.notion.site/e0486894dc124f3bbdd663fc0e22eb43)
 - [Compositional Layout](https://verbena-bison-4bb.notion.site/Compositional-Layout-e36aa902a8f441039ffc0f2cc2aba4ef)
 - [알랑가파이러를 MOYA처럼 쓰고 싶어~](https://verbena-bison-4bb.notion.site/MOYA-3cd32e6a41a546389d0672506b6b36c8)
+- [Diffable](https://verbena-bison-4bb.notion.site/a1ddfd48708f46ce9c33d009fef0980b?pvs=4)
 
 ## ❓호기심 천국 아요가 궁금해~
 - [숫자 리터럴에 추가 포맷을 넣어도 상관없다..?](https://verbena-bison-4bb.notion.site/3bfe162bbcd34a35a4e88e859d92cf4e)
