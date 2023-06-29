@@ -82,6 +82,7 @@
 - [SnapKit 정리](https://verbena-bison-4bb.notion.site/Snapkit-ded7ee0f9cbb4bb9b3ec8f23bc9d49e6?pvs=4)
 - [StackView](https://verbena-bison-4bb.notion.site/StackView-82ff3074c00347df97dc6ceb21b63c59?pvs=4)
 - [Realm](https://verbena-bison-4bb.notion.site/Realm-4766dec9dc6842d9883a9fa2a8b7c0ac?pvs=4)
+- [동적 셀 크기 적용하기 공부하기](https://verbena-bison-4bb.notion.site/ea1d58bc3b9e4438ad0dfb44a4ca6b29?pvs=4)
 
 ## ❓호기심 천국 아요가 궁금해~
 - [숫자 리터럴에 추가 포맷을 넣어도 상관없다..?](https://verbena-bison-4bb.notion.site/3bfe162bbcd34a35a4e88e859d92cf4e)
