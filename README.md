@@ -86,6 +86,7 @@
 - [위치정보 GPS 주소 가져오기](https://verbena-bison-4bb.notion.site/GPS-06ee3b1115a545d68c79c8a66aaa97e2?pvs=4)
 - [DataFormatter, Timer 활용해 남은 시간 계산하기](https://verbena-bison-4bb.notion.site/DataFormatter-Timer-35d90476b0cc4b989f2d7f663915e1be?pvs=4)
 - [QR Code 리더기](https://verbena-bison-4bb.notion.site/QR-Code-Scanner-0d54b3dcf4ae47f786a3da2c15680f18?pvs=4)
+- [View/Layout update Method](https://verbena-bison-4bb.notion.site/View-78e7ddfd2d274721b3c1ed6d04ea05c7?pvs=4)
 - [애니메이션 1탄](https://verbena-bison-4bb.notion.site/UIView-Animating-6e715e8e743c4c26806a7aa4508e21f0?pvs=4)
 
 ## ❓호기심 천국 아요가 궁금해~
