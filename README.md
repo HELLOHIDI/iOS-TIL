@@ -88,6 +88,7 @@
 - [QR Code 리더기](https://verbena-bison-4bb.notion.site/QR-Code-Scanner-0d54b3dcf4ae47f786a3da2c15680f18?pvs=4)
 - [View/Layout update Method](https://verbena-bison-4bb.notion.site/View-78e7ddfd2d274721b3c1ed6d04ea05c7?pvs=4)
 - [애니메이션 1탄](https://verbena-bison-4bb.notion.site/UIView-Animating-6e715e8e743c4c26806a7aa4508e21f0?pvs=4)
+- [UIGestureRecognizer](https://verbena-bison-4bb.notion.site/UIGestureRecognizer-c0a38ca31c0e4d24a12b67d0bb53e2be?pvs=4)
 
 ## ❓호기심 천국 아요가 궁금해~
 - [숫자 리터럴에 추가 포맷을 넣어도 상관없다..?](https://verbena-bison-4bb.notion.site/3bfe162bbcd34a35a4e88e859d92cf4e)
