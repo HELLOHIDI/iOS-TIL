@@ -61,6 +61,10 @@
 - [sync,async,serial,concurrent](https://verbena-bison-4bb.notion.site/2fc5f23cf4d64661aaf3c36ae1772c24)
 - [GCD, GCD 사용시 주의할 점](https://verbena-bison-4bb.notion.site/GCD-aaacb44aa1994e1cba412ede08b2030e)
 
+## 🦾 아요 개념 일지
+- [SOLID](https://verbena-bison-4bb.notion.site/SOLID-f1cc06a732ad4dc0963da97ee48c6187?pvs=4)
+
+
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
 - [clipsToBound vs maskToBounds](https://verbena-bison-4bb.notion.site/clipsToBound-vs-maskToBounds-644f6b7957bc42089f5c996dc220af2c)
