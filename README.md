@@ -61,8 +61,13 @@
 - [sync,async,serial,concurrent](https://verbena-bison-4bb.notion.site/2fc5f23cf4d64661aaf3c36ae1772c24)
 - [GCD, GCD 사용시 주의할 점](https://verbena-bison-4bb.notion.site/GCD-aaacb44aa1994e1cba412ede08b2030e)
 
-## 🦾 아요 개념 일지
+## 🎨 Design Pattern & Architecture
 - [SOLID](https://verbena-bison-4bb.notion.site/SOLID-f1cc06a732ad4dc0963da97ee48c6187?pvs=4)
+- [Design Pattern](https://verbena-bison-4bb.notion.site/1105e751e1444919ad849e0fb836a8cf?pvs=4)
+- [Observer Pattern](https://verbena-bison-4bb.notion.site/Observer-Pattern-ae86cff1571e4792bce937c28731a403?pvs=4)
+- [Coordinator Pattern](https://verbena-bison-4bb.notion.site/Coordinator-Pattern-c97629f3bd8949b4b08910527df073a0?pvs=4)
+- [Repository Pattern](https://verbena-bison-4bb.notion.site/Repository-Pattern-65a7157745264e43a1a2a41625cce2d0?pvs=4)
+- [MVVM 맛보기](https://verbena-bison-4bb.notion.site/MVVM-textField-b0ae1bdc137d4a6aa65313928dda1814?pvs=4)
 
 
 ## 👨‍💻아요 개발 일지
@@ -93,6 +98,8 @@
 - [View/Layout update Method](https://verbena-bison-4bb.notion.site/View-78e7ddfd2d274721b3c1ed6d04ea05c7?pvs=4)
 - [애니메이션 1탄](https://verbena-bison-4bb.notion.site/UIView-Animating-6e715e8e743c4c26806a7aa4508e21f0?pvs=4)
 - [UIGestureRecognizer](https://verbena-bison-4bb.notion.site/UIGestureRecognizer-c0a38ca31c0e4d24a12b67d0bb53e2be?pvs=4)
+- [ScrollView 확실히 Scroll 할래요](https://verbena-bison-4bb.notion.site/d281128c96824c0aa43be6fb4a3eb462?pvs=4)
+- [CAGradientLayer, UIBezierPath + CAShapeLayer](https://verbena-bison-4bb.notion.site/f24b4f6ef1f5417ea07a6d64f3041563?pvs=4)
 
 ## ❓호기심 천국 아요가 궁금해~
 - [숫자 리터럴에 추가 포맷을 넣어도 상관없다..?](https://verbena-bison-4bb.notion.site/3bfe162bbcd34a35a4e88e859d92cf4e)
