@@ -68,6 +68,7 @@
 - [Factory Pattern](https://verbena-bison-4bb.notion.site/Factory-Pattern-ee470e8e1c034e479b04aa3d53babe12?pvs=4)
 - [Adapter Pattern](https://verbena-bison-4bb.notion.site/Adaptor-Pattern-65860716416d4efb92ed30075f80ba5a?pvs=4)
 - [Strategy Pattern](https://verbena-bison-4bb.notion.site/Strategy-Pattern-c11247ebc5e64de68d17e7b8122cdc9b?pvs=4)
+- [Builder Pattern](https://verbena-bison-4bb.notion.site/Builder-Pattern-f17e22dba6dc461184b22e046c7bfdf0?pvs=4)
 - [Observer Pattern](https://verbena-bison-4bb.notion.site/Observer-Pattern-ae86cff1571e4792bce937c28731a403?pvs=4)
 - [Coordinator Pattern](https://verbena-bison-4bb.notion.site/Coordinator-Pattern-c97629f3bd8949b4b08910527df073a0?pvs=4)
 - [Repository Pattern](https://verbena-bison-4bb.notion.site/Repository-Pattern-65a7157745264e43a1a2a41625cce2d0?pvs=4)
