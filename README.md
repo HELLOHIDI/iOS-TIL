@@ -80,6 +80,7 @@
 - [Rx 1탄) Stream, Observable, Observer](https://verbena-bison-4bb.notion.site/Rx-1-Stream-Observable-Observer-b7c45bc28e4e4f8b84889296c2ae6f1b?pvs=4)
 - [Rx 2탄) Observable 생성](https://verbena-bison-4bb.notion.site/Rx-2-Observable-564f42028d5845068cc3287361080336?pvs=4)
 - [Rx 3탄) Dispose /Disposable / DisposeBag](https://verbena-bison-4bb.notion.site/Rx-3-Dispose-Disposable-DisposeBag-cc69c20d09444dfca3c98d56585e0e9d?pvs=4)
+- [Rx 4탄) Subject(1)](https://verbena-bison-4bb.notion.site/Rx-4-Subject-1-Observable-f046b59aa2f04f429743ccf5ce5c6254?pvs=4)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
