@@ -84,6 +84,7 @@
 - [Rx 4탄) Subject(2)](https://verbena-bison-4bb.notion.site/Rx-4-Subject-2-Observer-be0e9220f4614482a9087fea36081e68?pvs=4)
 - [Rx 4탄) Subject(3)](https://verbena-bison-4bb.notion.site/Rx-4-Subject-3-Subject-3c0e10fc5d3b41138cb7f67cee17deec?pvs=4)
 - [Rx 5탄) Relay](https://verbena-bison-4bb.notion.site/Rx-5-Relay-ccc1955e642b421f88d3569317046d34?pvs=4)
+- [Rx 6탄) Traits](https://verbena-bison-4bb.notion.site/Rx-6-Traits-0bfba195b43b405e812923b149177834?pvs=4)
 
 ## 👨‍💻아요 개발 일지
 - [frame vs bound](https://verbena-bison-4bb.notion.site/frame-vs-bound-00b9cf77f015409a9f67afd20658ba17)
